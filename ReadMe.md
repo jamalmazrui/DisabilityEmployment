@@ -2,7 +2,7 @@
 A collection of federal publications supporting employment of people with disabilities\
 Distributed by Jamal Mazrui on February 17, 2019
 
-This project is a downloadable collection of U.S. government publications supporting employment of people with disabilities.  American copyright law does not protect works created by the government.  Over 300 publications created by the following agencies are included:
+This project is a downloadable collection of U.S. government publications supporting employment of people with disabilities.  Since American copyright law does not protect works created by the government, sharing this material is encouraged to facilitate jobs for all.  Over 300 publications created by the following agencies are included:
 
 - [Department of Education](https://www.ed.gov/)
 - [Department of Health and Human Services](https://www.hhs.gov/)
@@ -13,7 +13,7 @@ This project is a downloadable collection of U.S. government publications suppor
 
 Topics addressed include the following:
 
-* Benefits of recruiting, hiring, and retaining workers with disabilities
+* Benefits of hiring, advancing, and retaining workers with disabilities
 * Reasonable accommodations by industrial sector and disability type
 * Roles of assistive, information, and communication technologies
 * Successful procedures and practices
