@@ -6,15 +6,17 @@ This project is a downloadable collection of U.S. government publications suppor
 
 - [Department of Education](https://www.ed.gov/)
 - [Department of Health and Human Services](https://www.hhs.gov/)
+- [Department of Justice](https://www.justice.gov/)
 - [Department of Labor](https://www.dol.gov/)
 - [Equal Employment Opportunity Commission](https://www.eeoc.gov//)
 - [National Council on Disability](https://ncd.gov/)
+- [Office of Personnel Management](https://www.opm.gov/)
 - [Social Security Administration](https://www.ssa.gov/)
 
 Topics addressed include the following:
 
 * Benefits of hiring, advancing, and retaining workers with disabilities
-* Reasonable accommodations by industrial sector and disability type
+* Reasonable accommodations by disability type and occupational sector
 * Roles of assistive, information, and communication technologies
 * Successful procedures and practices
 * Legal and regulatory policies
